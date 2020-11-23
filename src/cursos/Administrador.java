@@ -7,7 +7,7 @@ package cursos;
 
 /**
  *
- * @author Osvaldo
+ * @author Osvaldo es mi hombre uwu
  */
 public class Administrador extends javax.swing.JFrame {
 
